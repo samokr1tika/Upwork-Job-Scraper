@@ -1,30 +1,32 @@
-Upwork Job Scraper
+# Upwork Job Scraper  
 
-English 🇬🇧
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)  
+[![GitHub](https://img.shields.io/github/license/samokr1tika/Upwork-Job-Scraper)](https://github.com/samokr1tika/Upwork-Job-Scraper/blob/main/LICENSE)  
 
-This project is a scraper for Upwork job postings. It allows users to extract job data automatically.
+## 🌍 English 🇬🇧  
 
-Features:
+This project is a scraper for Upwork job postings. It allows users to extract job data automatically.  
 
-Extracts job titles, descriptions, budgets, and client details.
+### ✨ Features:  
+- Extracts job titles, descriptions, budgets, and client details.  
+- Saves results in structured formats (JSON, CSV, etc.).  
+- Can be automated for periodic updates.  
 
-Saves results in structured formats (JSON, CSV, etc.).
+### ⚙ Installation:  
+```bash
+git clone https://github.com/samokr1tika/Upwork-Job-Scraper.git  
+cd Upwork-Job-Scraper  
+pip install -r requirements.txt  
+python scraper.py
 
-Can be automated for periodic updates.
 
-Installation:
+---
 
-Clone the repository: git clone https://github.com/samokr1tika/Upwork-Job-Scraper.git 
-
-Install dependencies: pip install -r requirements.txt 
-
-Run the scraper: python scraper.py 
-
-Русский 🇷🇺
+🌍 Русский 🇷🇺
 
 Этот проект — скрапер вакансий на Upwork. Он позволяет автоматически извлекать данные о вакансиях.
 
-Возможности:
+✨ Возможности:
 
 Извлекает заголовки вакансий, описания, бюджеты и информацию о клиентах.
 
@@ -32,14 +34,33 @@ Run the scraper: python scraper.py
 
 Может работать автоматически с обновлениями по расписанию.
 
-Установка:
 
-Клонируйте репозиторий: git clone https://github.com/samokr1tika/Upwork-Job-Scraper.git 
+⚙ Установка:
 
-Установите зависимости: pip install -r requirements.txt 
+git clone https://github.com/samokr1tika/Upwork-Job-Scraper.git  
+cd Upwork-Job-Scraper  
+pip install -r requirements.txt  
+python scraper.py
 
-Запустите скрапер: python scraper.py 
 
+---
 
-## Автор
+👨‍💻 Автор
+
 Разработано samokr1tika.
+
+
+---
+
+⭐ Если проект вам понравился, поставьте звезду на GitHub!
+
+[![GitHub stars](https://img.shields.io/github/stars/samokr1tika/Upwork-Job-Scraper?style=social)](https://github.com/samokr1tika/Upwork-Job-Scraper)
+
+Этот `README.md` включает:  
+✔ Красивые разделители и заголовки  
+✔ Значки для Python и лицензии  
+✔ Блоки кода для установки  
+✔ Ссылку на ваш профиль  
+
+Вы можете просто скопировать этот текст и вставить в `README.md`.
+
