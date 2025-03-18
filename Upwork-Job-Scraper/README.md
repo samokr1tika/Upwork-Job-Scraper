@@ -1,30 +1,47 @@
-# Upwork Job Scraper (RU/EN)
+Вот обновленный README.md с поддержкой двух языков:
 
-## 🇷🇺 Описание  
-Этот скрипт ищет заказы на Upwork по заданным параметрам и сохраняет их в файл.  
+Upwork Job Scraper
 
-## 🇬🇧 Description  
-This script searches for jobs on Upwork based on given parameters and saves them to a file.  
+English 🇬🇧
 
-### 🔧 Установка / Installation  
+This project is a scraper for Upwork job postings. It allows users to extract job data automatically.
 
-1. **Установи зависимости** / **Install dependencies**  
-   ```bash
-   pip install requests
-   ```
+Features:
 
-2. **Настрой конфиг (`config.py`)** / **Configure `config.py`**  
-   - `API_KEY` – Upwork API ключ / API Key  
-   - `SEARCH_QUERY` – Запрос / Search Query  
-   - `MIN_BUDGET` – Минимальный бюджет / Minimum Budget  
-   - `SAVE_TO` – Файл сохранения / Output File  
-   - `LANGUAGE` – Язык (`ru` / `en`) / Language (`ru` / `en`)  
+Extracts job titles, descriptions, budgets, and client details.
 
-3. **Запусти скрипт** / **Run the script**  
-   ```bash
-   python scraper.py
-   ```
+Saves results in structured formats (JSON, CSV, etc.).
 
-### 📁 Вывод / Output  
-Результаты сохраняются в `results.json`.  
-Results are saved in `results.json`.  
+Can be automated for periodic updates.
+
+Installation:
+
+Clone the repository: git clone https://github.com/samokr1tika/Upwork-Job-Scraper.git 
+
+Install dependencies: pip install -r requirements.txt 
+
+Run the scraper: python scraper.py 
+
+Русский 🇷🇺
+
+Этот проект — скрапер вакансий на Upwork. Он позволяет автоматически извлекать данные о вакансиях.
+
+Возможности:
+
+Извлекает заголовки вакансий, описания, бюджеты и информацию о клиентах.
+
+Сохраняет результаты в структурированных форматах (JSON, CSV и др.).
+
+Может работать автоматически с обновлениями по расписанию.
+
+Установка:
+
+Клонируйте репозиторий: git clone https://github.com/samokr1tika/Upwork-Job-Scraper.git 
+
+Установите зависимости: pip install -r requirements.txt 
+
+Запустите скрапер: python scraper.py 
+
+
+## Автор
+Разработано samokr1tika.
