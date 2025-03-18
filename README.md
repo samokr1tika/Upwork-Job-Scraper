@@ -55,12 +55,3 @@ python scraper.py
 ⭐ Если проект вам понравился, поставьте звезду на GitHub!
 
 [![GitHub stars](https://img.shields.io/github/stars/samokr1tika/Upwork-Job-Scraper?style=social)](https://github.com/samokr1tika/Upwork-Job-Scraper)
-
-Этот `README.md` включает:  
-✔ Красивые разделители и заголовки  
-✔ Значки для Python и лицензии  
-✔ Блоки кода для установки  
-✔ Ссылку на ваш профиль  
-
-Вы можете просто скопировать этот текст и вставить в `README.md`.
-
