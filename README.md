@@ -15,3 +15,7 @@ Filters jobs by budget and saves results as JSON. Supports English and Russian.
 1. Install dependencies / Установите зависимости:  
    ```bash
    pip install -r requirements.txt
+
+2. Run the script / Запустите скрипт:
+
+python scraper.py
