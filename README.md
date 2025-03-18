@@ -1,17 +1,47 @@
-# Upwork Job Scraper  
+Вот обновленный README.md с поддержкой двух языков:
 
-🇬🇧 **Python script for automated job search on Upwork via API.**  
-Filters jobs by budget and saves results as JSON. Supports English and Russian.  
+Upwork Job Scraper
 
-🇷🇺 **Python-скрипт для автоматизированного поиска заказов на Upwork.**  
-Фильтрует заказы по бюджету и сохраняет в JSON. Поддержка английского и русского языков.  
+English 🇬🇧
 
-## Features / Возможности  
-✅ Fetch jobs from Upwork API / Получение заказов через Upwork API  
-✅ Filter by budget / Фильтрация по бюджету  
-✅ Export to JSON / Экспорт в JSON  
+This project is a scraper for Upwork job postings. It allows users to extract job data automatically.
 
-## Installation / Установка  
-1. Install dependencies / Установите зависимости:  
-   ```bash
-   pip install -r requirements.txt
+Features:
+
+Extracts job titles, descriptions, budgets, and client details.
+
+Saves results in structured formats (JSON, CSV, etc.).
+
+Can be automated for periodic updates.
+
+Installation:
+
+Clone the repository: git clone https://github.com/samokr1tika/Upwork-Job-Scraper.git 
+
+Install dependencies: pip install -r requirements.txt 
+
+Run the scraper: python scraper.py 
+
+Русский 🇷🇺
+
+Этот проект — скрапер вакансий на Upwork. Он позволяет автоматически извлекать данные о вакансиях.
+
+Возможности:
+
+Извлекает заголовки вакансий, описания, бюджеты и информацию о клиентах.
+
+Сохраняет результаты в структурированных форматах (JSON, CSV и др.).
+
+Может работать автоматически с обновлениями по расписанию.
+
+Установка:
+
+Клонируйте репозиторий: git clone https://github.com/samokr1tika/Upwork-Job-Scraper.git 
+
+Установите зависимости: pip install -r requirements.txt 
+
+Запустите скрапер: python scraper.py 
+
+
+## Автор
+Разработано samokr1tika.
